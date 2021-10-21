@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @du-7
+- 👋 Hi, I’m Ricardo Custódio @du-7
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ... i don't know, yet!
